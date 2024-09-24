@@ -33,11 +33,11 @@
       "hit": {
         "enabled": false,
         "delay": 1000,
-        "attack-mobs": false
+        "attack-mobs": true
       },
 
       "circle-walk": {
-        "enabled": false,
+        "enabled": true,
         "radius": 2
       }
     },
@@ -56,7 +56,7 @@
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 5000
   }
 }
