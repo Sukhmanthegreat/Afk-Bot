@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
+    "username": "bhullarsukhman201207@hotmail.com",
+    "password": "Bhullar*@2012",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "pioneersurvival.minefort.com",
+    "port": 19132,
+    "version": "1.29.30"
   },
 
   "position": {
